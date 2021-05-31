@@ -1,0 +1,1 @@
+random_number < running_prob_sum
